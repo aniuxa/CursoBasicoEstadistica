@@ -13,3 +13,6 @@ Este curso es una introducción a R y a las herramientas básicas de análisis c
   - [Práctica 9](Practica9.md)
   - [Práctica 10](Practica10.md)
   - [Práctica 11](Practica11.md)
+
+
+[![DOI](https://zenodo.org/badge/287788851.svg)](https://zenodo.org/badge/latestdoi/287788851)
